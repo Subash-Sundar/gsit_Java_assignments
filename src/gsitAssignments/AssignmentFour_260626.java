@@ -50,7 +50,7 @@ public class AssignmentFour_260626 {
             int superPreviousValue = 0;
             int previousValue = 1;
             System.out.print("The Fibonacci Series is 0,1");
-            for (int k = 2; k <= num ; k++){
+            for (int k = 2; k < num ; k++){
                 int currentValue = superPreviousValue + previousValue;
                 System.out.print(","+currentValue);
                 superPreviousValue = previousValue;
@@ -59,11 +59,12 @@ public class AssignmentFour_260626 {
             }
         }
     }
+
     public static void main(String[] args) {
         factorialOf(0);
         digitCountOf(234567);
         sumOfDigits(234567);
         factorsOf(28);
-        fibonacciSeries(8);
+        fibonacciSeries(10);
     }
 }
