@@ -1,5 +1,7 @@
 **Assignment one** - Store details of a student and priint them all in defined format.
-**Assignment two** - AsciiCode, StarPattern with only Sysout, typeCasting sample.
+**Assignment two** - AsciiCode, 
+                      StarPattern with only Sysout, 
+                      typeCasting sample.
 **Assignment three** - elseIf program for Grades based on marks.
 **Assignment four** - Factorial Of given number,
                   Number of digits,
