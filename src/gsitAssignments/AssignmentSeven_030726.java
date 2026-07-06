@@ -1,7 +1,7 @@
 package gsitAssignments;
 
 public class AssignmentSeven_030726 {
-    public static void arrayOperationOne(){
+    public static void uniqueElements(){
         int[] numbers = {4,1,2,4,5,5,6,8,9,9};
         for(int i = 0;i < numbers.length; i++){
             int currentNumb = numbers[i];
@@ -82,7 +82,7 @@ public class AssignmentSeven_030726 {
         }
     }
     public static void main(String[] args) {
-        arrayOperationOne();
+        uniqueElements();
         System.out.println("----------------------------------------------------------");
         commonElementFinder();
         System.out.println("----------------------------------------------------------");

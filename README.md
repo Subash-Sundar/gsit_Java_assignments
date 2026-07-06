@@ -8,7 +8,13 @@ Number of digits,
 Sum of digits,
 Factors of given number,
 Fibonacci Series.
-\*\*Assignment five\*\*- Biggest digit in given number.
+**Assignment five**- Biggest digit in given number.
 **Assignment six** - Alternative Upper case alphabets print using while loop.
 Ascii value of all upper case alphabets in given format.
+
+**Assignment Seven** - 	Unique elements in Array, 
+
+&#x09;		Common  elements in two arrays,
+
+&#x09;		Frequency of elements.
 
