@@ -1,6 +1,6 @@
-package gsitAssignments;
+package gsitWeeklyAssignments;
 
-public class AssignmentFour_260626 {
+public class Assignment_Loops_260626 {
     public static void factorialOf(int num){
         int product = 1;
         for (int i = 1; i <= num ; i++){

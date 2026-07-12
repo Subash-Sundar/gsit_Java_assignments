@@ -1,6 +1,6 @@
-package gsitAssignments;
+package gsitWeeklyAssignments;
 
-public class AssignmentSeven_030726 {
+public class Assignment_Arrays_030726 {
     public static void uniqueElements(){
         int[] numbers = {4,1,2,4,5,5,6,8,9,9};
         for(int i = 0;i < numbers.length; i++){
